@@ -1,2 +1,2 @@
 # Hydrogen
-Spotlight Search for Windows. (NOTE: Currently in dev. Unless you have Python installed, Patience, Young Padawan.)
+Hey! No touchy! We're in dev right now. If you have python installed, however, go ahead. It's CTRL+SHIFT+S. :)
